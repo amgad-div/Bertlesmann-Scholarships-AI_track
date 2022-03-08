@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-A collection of awesome learning resources from [Bertelsmann Tech Scholarship from the Data Track](https://sites.google.com/udacity.com/bmann-technology-scholarship/ai-track?authuser=0).
+A collection of awesome learning resources from [Bertelsmann Tech Scholarship from the AI Track](https://sites.google.com/udacity.com/bmann-technology-scholarship/ai-track?authuser=0).
 
 Contributions are always welcome!
 
